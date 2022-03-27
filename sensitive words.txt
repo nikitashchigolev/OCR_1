@@ -1,10 +1,9 @@
 passport
 address
 bank
-banking
 identification 
 identity
-license
+licence
 card
 expiry          
 issue 
@@ -27,12 +26,8 @@ password
 payment
 paypal 
 mastercard 
-password.
 secure 
 security
-banking
 confidential      
-confidential.
-id: 
 auth
 tax
